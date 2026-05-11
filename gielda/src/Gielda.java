@@ -19,3 +19,5 @@ public class Gielda {
 
 }
 //testing123
+// sync fork - na git hub, poniewaz jest to jedno repo zapisane na dwoch osobnych kontach (ala kopia)
+//SC - commit - changes -> staged changes _> message
